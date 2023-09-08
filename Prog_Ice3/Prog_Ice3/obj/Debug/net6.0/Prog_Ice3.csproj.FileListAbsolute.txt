@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\Prog_Ice3\Prog_Ice3\bin\Debug\net6.0\Prog_Ice3.exe
+C:\Users\lab_services_student\source\repos\Prog_Ice3\Prog_Ice3\bin\Debug\net6.0\Prog_Ice3.deps.json
+C:\Users\lab_services_student\source\repos\Prog_Ice3\Prog_Ice3\bin\Debug\net6.0\Prog_Ice3.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\Prog_Ice3\Prog_Ice3\bin\Debug\net6.0\Prog_Ice3.dll
+C:\Users\lab_services_student\source\repos\Prog_Ice3\Prog_Ice3\bin\Debug\net6.0\Prog_Ice3.pdb
+C:\Users\lab_services_student\source\repos\Prog_Ice3\Prog_Ice3\obj\Debug\net6.0\Prog_Ice3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\Prog_Ice3\Prog_Ice3\obj\Debug\net6.0\Prog_Ice3.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\Prog_Ice3\Prog_Ice3\obj\Debug\net6.0\Prog_Ice3.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\Prog_Ice3\Prog_Ice3\obj\Debug\net6.0\Prog_Ice3.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\Prog_Ice3\Prog_Ice3\obj\Debug\net6.0\Prog_Ice3.dll
+C:\Users\lab_services_student\source\repos\Prog_Ice3\Prog_Ice3\obj\Debug\net6.0\refint\Prog_Ice3.dll
+C:\Users\lab_services_student\source\repos\Prog_Ice3\Prog_Ice3\obj\Debug\net6.0\Prog_Ice3.pdb
+C:\Users\lab_services_student\source\repos\Prog_Ice3\Prog_Ice3\obj\Debug\net6.0\Prog_Ice3.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\Prog_Ice3\Prog_Ice3\obj\Debug\net6.0\ref\Prog_Ice3.dll
